@@ -20,14 +20,14 @@
     "height": 356.9181552807549,
     "width": 359.9879753733387,
     "x": 8.881784197001256e-16,
-    "y": -0.00005626738567077183
+    "y": -0.00005626738567077181
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
