@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DE9BA5B3-148C-46B3-B9FE-D1C8427FCA92",
+  "do_objectID": "4767E9AE-6BB7-4B7D-9C2D-ECC61C2B87DF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4E33AF0A-8EC5-434F-9D24-44E707A08A6E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2C226D49-967B-4192-8704-A998556514B0",
-    "height": 357,
-    "width": 360,
+    "height": 340,
+    "width": 340,
     "x": 0,
     "y": 0
   },
@@ -29,14 +27,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapePath",
+      "id": "496A1017-7358-4679-AD7E-407CCD62D5D1"
+    },
+    {
       "class": "shapeGroup",
-      "id": "738BBC84-AE26-4A1F-BB5B-173C1D58278C"
+      "id": "4CBEBFC3-8E50-47A2-8E78-FCB4A7F2A10B"
     }
   ],
-  "name": "Icon/SnapNet1/Search",
+  "name": "Group 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,7 +46,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "97E70D08-31FA-4324-9E30-48E414E046BE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
