@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE9BA5B3-148C-46B3-B9FE-D1C8427FCA92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E33AF0A-8EC5-434F-9D24-44E707A08A6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C226D49-967B-4192-8704-A998556514B0",
+    "height": 12,
+    "width": 12,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "738BBC84-AE26-4A1F-BB5B-173C1D58278C"
+    },
+    {
+      "class": "group",
+      "id": "A721EA85-BE0F-4C92-AAC4-4AB2E6B092DD"
+    }
+  ],
+  "name": "Icon/SnapNet1/Search",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97E70D08-31FA-4324-9E30-48E414E046BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
